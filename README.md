@@ -18,7 +18,7 @@ The Assessment Solidity Smart Contract serves as the backbone of a decentralized
 
 To use this project, you need to have a set up the project on your git pod account. You can download the code directly or clone the repository:
 ```
-git clone https://github.com/PreetJawla/zkENV/tree/main
+git clone https://github.com/sakshammishra112/ZKSnark
 ```
 
 ### Circuit Diagram
@@ -143,13 +143,13 @@ With two commands you can compile a ZKP, generate a proof, deploy a verifier, an
 
 
 ## Help
-If you encounter any issues or have questions about using the smart contract, please contact [preetjawla6@gmial.com].
+If you encounter any issues or have questions about using the smart contract, please contact [sakshammishra112@gmial.com].
 
 ## Authors
 
-* Preet Jawla
-* [preetjawla6@gmail.com]
+* Saksham Mishra
+* [sakshammishra112@gmial.com]
 
 ## License
 
-This project is licensed under the [preet] License - see the LICENSE.md file for details
+This project is licensed under the [Saksham] License - see the LICENSE.md file for details
